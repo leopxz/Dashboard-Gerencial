@@ -16,3 +16,11 @@ Gráficos customizados: Inclui gráficos interativos que facilitam a análise do
 ## Tecnologias Utilizadas
 Microsoft Power BI: Plataforma utilizada para a criação do dashboard, integração de dados e visualizações interativas.
 Power BI Custom Visuals: Foram utilizados visuais personalizados, como gráficos de radar, para aprimorar a experiência de análise.
+
+Abaixo estão as páginas desenvolvidas no Power BI.
+
+## Vendas
+![Captura de tela 2024-09-22 013120](https://github.com/user-attachments/assets/02cbe66f-9b8f-4180-85f3-40492b5a0183)
+
+## Lucro
+![Captura de tela 2024-09-22 013129](https://github.com/user-attachments/assets/304e699f-8c8b-4304-9440-244c49aa3082)
